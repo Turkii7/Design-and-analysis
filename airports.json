@@ -1,0 +1,21 @@
+{
+  "1": {
+    "Name": "JFK",
+    "Destinations": {
+      "2": 300,
+      "3": 500
+    }
+  },
+  "2": {
+    "Name": "LAX",
+    "Destinations": {
+      "3": 200
+    }
+  },
+  "3": {
+    "Name": "ORD",
+    "Destinations": {
+      "1": 400
+    }
+  }
+}
